@@ -1,4 +1,4 @@
-LIBRARY	"UnityCaptureService"
+LIBRARY	"UnityCamService"
 
 EXPORTS
             DllMain                 PRIVATE
